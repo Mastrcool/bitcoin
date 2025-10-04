@@ -1,7 +1,5 @@
 Bitcoin Core integration/staging tree
 =====================================
-Jerry was here
-
 
 
 
